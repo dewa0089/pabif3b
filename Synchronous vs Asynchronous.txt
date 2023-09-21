@@ -1,0 +1,11 @@
+Synchronous vs Asynchronous
+
+future adalah sebuah objek yang mewakili nilai potensial atau kesalahan yang akan terjadi pada suatu waktu dimasa mendatang.
+tedapat 3 kondisi:
+1. Uncomplated
+2. Completed with data
+3. Complated with error
+
+
+
+Dart memiliki keywoard async dan await yang merupakan alternatif supaya bisa menuliskan proses asynchronous layaknya proses synchronous
