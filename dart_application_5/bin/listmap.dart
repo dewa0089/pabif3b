@@ -1,7 +1,1 @@
-class tugascontoh{
-
-    
-}
-
-
-
+class tugascontoh {}
